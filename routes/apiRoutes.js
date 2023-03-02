@@ -1,7 +1,7 @@
 const express = require("express");
 const router = express.Router();
 const uuid = require("uuid");
-const DB = require("../db/DB");
+const DB = require("../db/db.json");
 
 router.get("/api/notes", async function (req, res) {
   const notes = await DB.readNotes();
