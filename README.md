@@ -18,7 +18,9 @@
 An application that can be used to write, save, and delete notes using Node and Express, utilizing JSON for data storage.
 
 ## Visuals
-
+![FrontPage](/public/Frontpage.JPG)
+![Notes](/public/Notes.JPG)
+![Savenotes](/public/Save.JPG)
 
 ## License
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
